@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /quimica/
 author: Princess Mortix
 ---
 
