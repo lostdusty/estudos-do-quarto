@@ -78,10 +78,10 @@ misc_entries:
 
   - title: Blog posts
     post_list: true
-    url: false
+    url: true
 
   - title: moonwalk on the Internet
-    url: false
+    url: true
     entries:
       - title: on Github
         url: https://github.com/abhinavs/moonwalk
