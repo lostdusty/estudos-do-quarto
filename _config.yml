@@ -47,3 +47,8 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+collections:
+  quimica:
+    output: true
+    permalink: /:collection/:path/
