@@ -19,6 +19,26 @@
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+  MathJax.Hub.Config({
+    "HTML-CSS": {
+      availableFonts: ["TeX"],
+    },
+    tex2jax: {
+      inlineMath: [['$','$'],["\\(","\\)"]]},
+      displayMath: [ ['$$','$$'], ['\[','\]'] ],
+    TeX: {
+      extensions: ["AMSmath.js", "AMSsymbols.js", "color.js"],
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    showProcessingMessages: false,
+    messageStyle: "none",
+    imageFont: null,
+    "AssistiveMML": { disabled: true }
+  });
+</script>
 
   {%- include custom_head.html -%}
 </head>
