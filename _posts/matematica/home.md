@@ -1,0 +1,10 @@
+---
+layout: post
+permalink: matematica
+---
+
+# Matrizes
+[clique aqui](/matrizes)
+
+# Funções trigonometricas
+[clique aqui](/funcoes-trigonometricas)
