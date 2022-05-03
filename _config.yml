@@ -4,7 +4,7 @@ url: https://estudos.princessmortix.link # root address of the site
 description: > # description of the site (multiple lines allowed)
   Estudos do quarto é um projeto para ajudar os estudantes com dificuldade nas matérias que são lessionadas na escola. Feito por alunas para todos os alunos.
 
-permalink: /:slug
+permalink: /:category/:title
 
 favicon: "./logo.png" # relative path to site's favicon
 
