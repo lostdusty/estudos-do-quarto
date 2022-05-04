@@ -10,21 +10,28 @@ navbar_entries:
     
   - title: biologia
     url: biologia
+    
+  - title: fisica
+    url: fisica
+    
+  - title: sociologia
+    url: sociologia
 
 project_entries:
   - title: Matemática
     url: matematica
     desc: Encontre aqui os nossos resumos sobre matematica!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Biologia
     url: biologia
     desc: Encontre aqui os nossos resumos sobre biologia!
-    highlight: NOVO
+    #highlight: NOVO
 
-  #- title: Project 3
-    #url: overview-post
-    #desc: You can control visibility from _config.yml file
+  - title: Fisica
+    url: fisica
+    desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
+    highlight: NOVO
 
   #- title: Project 4
     #url: overview-post
@@ -87,6 +94,9 @@ misc_entries:
 
       - title: Biologia
         url: https://youtube.com/playlist?list=PLDKxz_KUEUfN6J8ak5cKMXapZX4eDI9P8
+        
+      - title: Fisica
+        url: https://youtube.com/playlist?list=PLDKxz_KUEUfPEW04tYPfdTfgiuIcoWAk4
 
       - title: em breve mais playlists
         url: false
