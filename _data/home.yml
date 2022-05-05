@@ -33,10 +33,10 @@ project_entries:
     desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
     highlight: NOVO
 
-  #- title: Project 4
-    #url: overview-post
-    #desc: This project uses highlight markup, configured in _data/home.yml
-    #highlight: WIP
+  - title: Sociologia
+    url: sociologia
+    desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
+    highlight: NOVO
 
   #- title: Project 5
     #url: overview-post
@@ -97,6 +97,9 @@ misc_entries:
         
       - title: Fisica
         url: https://youtube.com/playlist?list=PLDKxz_KUEUfPEW04tYPfdTfgiuIcoWAk4
+        
+      - title: Sociologia
+        url: https://youtube.com/playlist?list=PLYWPF_35IK-HDytOwnSqD0hqu0-qLR8CQ
 
       - title: em breve mais playlists
         url: false
