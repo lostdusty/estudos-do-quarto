@@ -74,3 +74,6 @@ A formula é dada pelo produto entre a força aplicada ($F$) e o braço de forç
 $$M = F * d$$
 
 A rotação no sentido anti-horário é positiva, enquanto a horária é negativa.
+
+# Vídeo-aulas
+[📺 assista aqui](https://youtube.com/playlist?list=PLDKxz_KUEUfPEW04tYPfdTfgiuIcoWAk4) nossas vídeos aulas complementares.
