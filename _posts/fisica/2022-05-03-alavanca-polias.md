@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /fisica/alavancas-polias
+author: Rebecca, Júlia
 title: "Alavancas, polias e torque"
 ---
 
@@ -62,3 +63,14 @@ Para calcular a força necessária para levantar use a seguinte formula:
 $$F = \frac{P}{2{^N}}$$
 
 Sendo:
+- $F$ a força necessária para levantar o objeto;
+- $P$ o peso do objeto;
+- $2{^N}$ N sendo o número de polias móveis.
+
+# Torque
+É a grandeza fisica responsável por promover ou inibir a rotação de um corpo.  
+A formula é dada pelo produto entre a força aplicada ($F$) e o braço de força ($d$).
+
+$$M = F * d$$
+
+A rotação no sentido anti-horário é positiva, enquanto a horária é negativa.
