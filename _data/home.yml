@@ -28,7 +28,7 @@ project_entries:
     desc: Encontre aqui os nossos resumos sobre biologia!
     #highlight: NOVO
 
-  - title: Fisica
+  - title: Física
     url: fisica
     desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
     highlight: NOVO
@@ -36,12 +36,12 @@ project_entries:
   - title: Sociologia
     url: sociologia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
-    highlight: NOVO
+    #highlight: NOVO
 
-  #- title: Project 5
-    #url: overview-post
-    #desc: Moonwalk also has horizontal list (used in header and footer)
-    #highlight: WIP
+  - title: Química
+    url: quimica
+    desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
+    highlight: WIP
 
   #- title: Project 6
     #url: overview-post
