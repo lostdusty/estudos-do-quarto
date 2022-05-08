@@ -34,3 +34,6 @@ O fenômeno de osmose ocorre quando um solvente puro, como a água, é uma solu�
 
 ### Pressão e variação do ponto de ebulição
 Quanto menos é a pressão externa exercida sobre a superfície do líquido, menor seja a temperatura de ebulição e vice-versa. A água, no nível do mar, entre em ebulição à 100°C, mas na nossa cidade, que está um pouco acima do nível do mar, o ponto de ebulição será menor (cerca de 98°C). Logo quanto maior a altitude menor será o ponto de ebulição. 
+
+# Vídeo aulas
+[📺 clique aqui para ver nossa playlist de vídeo aulas](https://youtube.com/playlist?list=PLDKxz_KUEUfNnobBnFo1dZtAeTzKDWkOh)
