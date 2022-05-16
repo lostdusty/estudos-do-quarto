@@ -31,17 +31,18 @@
       extensions: ["AMSmath.js", "AMSsymbols.js", "color.js"],
       equationNumbers: {
         autoNumber: "AMS"
+      },
+            autoload: {
+        color: [],            // don't autoload the color extension
+        colorv2: ['color']    // autoload v2 color extension
       }
+     
     },
-    showProcessingMessages: false,
+    showProcessingMessages: true,
     messageStyle: "none",
     imageFont: null,
     "AssistiveMML": { disabled: true }
   });
-    window.MathJax = {
-  loader: {load: ['[tex]/color']},
-  tex: {packages: {'[+]': ['color']}}
-};
 </script>
 
   {%- include custom_head.html -%}
