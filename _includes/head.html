@@ -38,6 +38,10 @@
     imageFont: null,
     "AssistiveMML": { disabled: true }
   });
+    window.MathJax = {
+  loader: {load: ['[tex]/color']},
+  tex: {packages: {'[+]': ['color']}}
+};
 </script>
 
   {%- include custom_head.html -%}
