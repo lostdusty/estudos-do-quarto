@@ -19,7 +19,8 @@
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>
+  <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     "HTML-CSS": {
       availableFonts: ["TeX"],
@@ -31,12 +32,7 @@
       extensions: ["AMSmath.js", "AMSsymbols.js", "color.js"],
       equationNumbers: {
         autoNumber: "AMS"
-      },
-            autoload: {
-        color: [],            // don't autoload the color extension
-        colorv2: ['color']    // autoload v2 color extension
       }
-     
     },
     showProcessingMessages: true,
     messageStyle: "none",
