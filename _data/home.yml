@@ -21,7 +21,7 @@ project_entries:
   - title: Matemática
     url: matematica
     desc: Encontre aqui os nossos resumos sobre matematica!
-    #highlight: NOVO
+    highlight: IMPORTANTE
 
   - title: Biologia
     url: biologia
@@ -31,7 +31,7 @@ project_entries:
   - title: Física
     url: fisica
     desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Sociologia
     url: sociologia
@@ -41,7 +41,7 @@ project_entries:
   - title: Química
     url: quimica
     desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
-    highlight: WIP
+    #highlight: WIP
 
   #- title: Project 6
     #url: overview-post
