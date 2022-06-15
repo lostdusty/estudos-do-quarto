@@ -16,12 +16,15 @@ navbar_entries:
     
   - title: sociologia
     url: sociologia
+    
+  - title: geografia
+    url: geografia
 
 project_entries:
   - title: Matemática
     url: matematica
     desc: Encontre aqui os nossos resumos sobre matematica!
-    highlight: IMPORTANTE
+    #highlight: IMPORTANTE
 
   - title: Biologia
     url: biologia
@@ -43,9 +46,10 @@ project_entries:
     desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
     #highlight: WIP
 
-  #- title: Project 6
-    #url: overview-post
-    #desc: It also has a scalable vertical list (in case you need it)
+  - title: Geografia
+    url: geografia
+    desc: Encontre aqui os nossos resumos sobre aprofundamento de geografia!
+    highlight: NOVO
 
 old_project_entries:
   - title: Soopr
@@ -75,8 +79,11 @@ footer_entries:
   - title: positivo on
     url: https://positivoon.com.br/
 
-  - title: feed
+  - title: feed rss
     url: feed.xml
+    
+  - title: sobre
+    url: about
 
 misc_entries:
   #- title: and you can add data in _data/home.yml
