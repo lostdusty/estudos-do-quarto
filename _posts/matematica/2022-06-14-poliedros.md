@@ -77,7 +77,7 @@ $$360$$
 ### Cubo
 É um poliedro com 6 faces quadrangulares:
 
-Usaremos a seguinte relação para saber o numero de arestas: $2A = NF_{N + 2}$, sendo N o número de vertices desse poligono
+Usaremos a seguinte relação para saber o numero de arestas: $2A = nF_{N + 2}$, sendo N o número de vertices desse poligono
 $$2A = 4 * 6$$
 
 $$2A = 24$$
@@ -104,7 +104,6 @@ E finalmente:
 
 $${\color{red}360} (V{\color{red}-2})$$
 
-
 $${\color{red}180} (8{\color{red}-2})$$
 
 $$180 * (6)$$
@@ -123,6 +122,93 @@ Embora exista uma infinidade de poliedros convexos, apenas 5 são regulares (ou 
 - Octaedro regular: 8 faces triangulares
 - Dodecaedro regular: 12 faces pentagonais
 - Icosaedro regular: 20 faces triangulares
-{% raw %}
-<section> teste </section>
-{% endraw %}
+
+## Tetraedro
+### Arestas
+$$F_{3} = 4$$
+
+> $2A = 3 * {\color{blue}F_{3} \arrowleft}$ faces triangulares
+
+$$2A = 3 * 4$$
+$$2A = 12$$
+$$A = 6$$
+
+### Vertices
+$$V + F = A + 2$$
+
+$$V + 4 = 8$$
+
+$$V = 4$$
+
+## Hexaedro
+### Arestas
+$$F_{4} = 6$$
+
+> $2A = 4 * {\color{blue}F_{4}}$
+
+$$2A = 4 * 6$$
+$$2A = 24$$
+$$A = 12$$
+
+### Vertices
+$$V + F = A + 2$$
+
+$$V + 6 = 14$$
+
+$$V = 8$$
+
+
+## Octaedro
+### Arestas
+$$F_{3} = 8$$
+
+> $2A = 3 * {\color{blue}F_{3}}$
+
+$$2A = 3 * 8$$
+$$2A = 24$$
+$$A = 12$$
+
+### Vertices
+$$V + F = A + 2$$
+
+$$V + 8 = 14$$
+
+$$V = 5$$
+
+
+## Dodecaedro
+### Arestas
+$$F_{5} = 12$$
+
+> $2A = 5 * {\color{blue}F_{5}}$
+
+$$2A = 5 * 12$$
+$$2A = 60$$
+$$A = 30$$
+
+### Vertices
+$$V + F = A + 2$$
+
+$$V + 12 = 32$$
+
+$$V = 20$$
+
+
+## Icosaedro
+### Arestas
+$$F_{3} = 20$$
+
+> $2A = 3 * {\color{blue}F_{3}}$
+
+$$2A = 60$
+$$A = 30$$
+
+### Vertices
+$$V + F = A + 2$$
+
+$$V + 20 = 32$$
+
+$$V = 12$$
+
+# Prismas
+O conteúdo de prismas está disponivel em .pdf
