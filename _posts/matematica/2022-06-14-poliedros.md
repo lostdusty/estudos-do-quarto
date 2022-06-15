@@ -100,12 +100,13 @@ $$V = 8$$
 
 E finalmente:
 
-> Note que podemos fazer que $S_{f} = 360(V-2)
+> Note que podemos fazer que $S_{f} = 360(V-2)$
 
 $${\color{red}360} (V{\color{red}-2})$$
 
 
 $${\color{red}180} (8{\color{red}-2})$$
+
 $$180 * (6)$$
 
 $$2160$$
@@ -122,6 +123,6 @@ Embora exista uma infinidade de poliedros convexos, apenas 5 são regulares (ou 
 - Octaedro regular: 8 faces triangulares
 - Dodecaedro regular: 12 faces pentagonais
 - Icosaedro regular: 20 faces triangulares
-{ %raw% }
+{% raw %}
 <section> teste </section>
 {% endraw %}
