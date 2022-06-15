@@ -31,9 +31,13 @@ A formula $V + F = A + 2$ associa o número de vértices (V), faces (F) e aresta
 Digamos que você saiba apenas quantas faces e arestas tem um prisma de base triangular, é possivel saber quantas arestas e vertices esse cubo tem sem precisar contar, veja o exemplo:
 
 $$V + F = A + 2$$
+
 $$4 + 4 = A + 2$$
+
 $$A + 2 = 8$$
+
 $$A = 8 - 2$$
+
 $$A = 6$$
 
 Este poligono tem 6 arestas, como foi calculado na formula.
@@ -52,16 +56,22 @@ Sendo N a única parte que muda na formula, sendo o número de vertices.
 Todos os triangulos tem 3 vertices, logo:
 
 $${\color{red}180} (N{\color{red}-2})$$
+
 $${\color{red}180} (3{\color{red}-2})$$
+
 $$180 * (1)$$
+
 $$180$$
 
 ### Quadrado
 Um quadrado tem 4 vertices, portanto:
 
 $${\color{red}180} (N{\color{red}-2})$$
+
 $${\color{red}180} (4{\color{red}-2})$$
+
 $$180 * (2)$$
+
 $$360$$
 
 ### Cubo
@@ -69,16 +79,23 @@ $$360$$
 
 Usaremos a seguinte relação para saber o numero de arestas: $2A = NF_{N + 2}$, sendo N o número de vertices desse poligono
 $$2A = 4 * 6$$
+
 $$2A = 24$$
+
 $$A = \frac{24}{2}$$
+
 $$A = 12$$
 
 E então, usaremos a relação de Euler para descobrirmos quantas vertices:
 
 $$V + F = A + 2$$
+
 $$V + 6 = 12 + 2$$
+
 $$V + 6 = 14$$
+
 $$V = 14 - 6$$
+
 $$V = 8$$
 
 E finalmente:
@@ -86,8 +103,11 @@ E finalmente:
 > Note que podemos fazer que $S_{f} = 360(V-2)
 
 $${\color{red}360} (V{\color{red}-2})$$
+
+
 $${\color{red}180} (8{\color{red}-2})$$
 $$180 * (6)$$
+
 $$2160$$
 
 # Poliedros regulares (Poliedros de Platão)
