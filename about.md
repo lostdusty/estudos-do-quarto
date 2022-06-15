@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Rebecca, Júlia, Maria Cecília
+author: Rebecca, Júlia, Maria Cecília, Nicole
 title: "Sobre o projeto"
 ---
 # Sobre o projeto
@@ -18,7 +18,8 @@ Não sabemos quem acessa o site, quem curte nossos resumos e nem mesmo coletamos
 ## Agradecimentos
 Esse projeto é possível graças a essas pessoas e softwares:
 - Maria Cecilia, ideializadora do projeto;
-- Júlia Dias, ajuda com o conteúdo;
+- Júlia, ajuda com o conteúdo;
+- Nicole, ajuda com conteúdos;
 - [abhinavs](https://www.abhinav.co), criador do [tema](https://github.com/abhinavs/moonwalk) que o site usa;
 - [GitHub](https://github.com), aonde o site é hospedado;
 - MathJax, para mostrar as fórmulas;
