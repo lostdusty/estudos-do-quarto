@@ -125,6 +125,7 @@ Embora exista uma infinidade de poliedros convexos, apenas 5 são regulares (ou 
 
 ## Tetraedro
 ### Arestas
+
 $$F_{3} = 4$$
 
 > $2A = 3 * {\color{blue}F_{3} \leftarrow}$ faces triangulares
@@ -136,6 +137,7 @@ $$2A = 12$$
 $$A = 6$$
 
 ### Vertices
+
 $$V + F = A + 2$$
 
 $$V + 4 = 8$$
@@ -144,6 +146,7 @@ $$V = 4$$
 
 ## Hexaedro
 ### Arestas
+
 $$F_{4} = 6$$
 
 > $2A = 4 * {\color{blue}F_{4}}$
@@ -155,6 +158,7 @@ $$2A = 24$$
 $$A = 12$$
 
 ### Vertices
+
 $$V + F = A + 2$$
 
 $$V + 6 = 14$$
@@ -164,6 +168,7 @@ $$V = 8$$
 
 ## Octaedro
 ### Arestas
+
 $$F_{3} = 8$$
 
 > $2A = 3 * {\color{blue}F_{3}}$
@@ -175,6 +180,7 @@ $$2A = 24$$
 $$A = 12$$
 
 ### Vertices
+
 $$V + F = A + 2$$
 
 $$V + 8 = 14$$
@@ -184,6 +190,7 @@ $$V = 5$$
 
 ## Dodecaedro
 ### Arestas
+
 $$F_{5} = 12$$
 
 > $2A = 5 * {\color{blue}F_{5}}$
@@ -195,6 +202,7 @@ $$2A = 60$$
 $$A = 30$$
 
 ### Vertices
+
 $$V + F = A + 2$$
 
 $$V + 12 = 32$$
@@ -203,15 +211,17 @@ $$V = 20$$
 
 ## Icosaedro
 ### Arestas
+
 $$F_{3} = 20$$
 
 > $2A = 3 * {\color{blue}F_{3}}$
 
-$$2A = 60$
+$$2A = 60$$
 
 $$A = 30$$
 
 ### Vertices
+
 $$V + F = A + 2$$
 
 $$V + 20 = 32$$
