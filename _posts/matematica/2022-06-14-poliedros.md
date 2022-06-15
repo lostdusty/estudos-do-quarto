@@ -127,10 +127,12 @@ Embora exista uma infinidade de poliedros convexos, apenas 5 são regulares (ou 
 ### Arestas
 $$F_{3} = 4$$
 
-> $2A = 3 * {\color{blue}F_{3} \arrowleft}$ faces triangulares
+> $2A = 3 * {\color{blue}F_{3} \leftarrow}$ faces triangulares
 
 $$2A = 3 * 4$$
+
 $$2A = 12$$
+
 $$A = 6$$
 
 ### Vertices
@@ -147,7 +149,9 @@ $$F_{4} = 6$$
 > $2A = 4 * {\color{blue}F_{4}}$
 
 $$2A = 4 * 6$$
+
 $$2A = 24$$
+
 $$A = 12$$
 
 ### Vertices
@@ -165,7 +169,9 @@ $$F_{3} = 8$$
 > $2A = 3 * {\color{blue}F_{3}}$
 
 $$2A = 3 * 8$$
+
 $$2A = 24$$
+
 $$A = 12$$
 
 ### Vertices
@@ -183,7 +189,9 @@ $$F_{5} = 12$$
 > $2A = 5 * {\color{blue}F_{5}}$
 
 $$2A = 5 * 12$$
+
 $$2A = 60$$
+
 $$A = 30$$
 
 ### Vertices
@@ -193,7 +201,6 @@ $$V + 12 = 32$$
 
 $$V = 20$$
 
-
 ## Icosaedro
 ### Arestas
 $$F_{3} = 20$$
@@ -201,6 +208,7 @@ $$F_{3} = 20$$
 > $2A = 3 * {\color{blue}F_{3}}$
 
 $$2A = 60$
+
 $$A = 30$$
 
 ### Vertices
@@ -213,4 +221,8 @@ $$V = 12$$
 # Prismas
 O conteúdo de prismas está disponivel em .pdf
 
-<i class='fa fa-home'></i>
+[<i class="fa-solid fa-file-pdf"></i> baixar conteúdo](https://github.com/princessmortix/estudos-do-quarto/files/8904826/bb818a7b-e01f-4e50-9ced-bb09629f97de.pdf)
+
+## Volume de prismas
+
+[<i class="fa-solid fa-file-pdf"></i> baixar conteúdo](https://github.com/princessmortix/estudos-do-quarto/files/8904828/a686428c-96a7-45a9-ac57-3fb6267b0628.pdf)
