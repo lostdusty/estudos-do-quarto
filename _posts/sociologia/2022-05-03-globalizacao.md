@@ -6,7 +6,9 @@ title: Globalização
 ---
 # Causas e efeitos da globalização
 ## Causas 
-A globalização começou com as expansão marítima por parte da Europa. Sendo assim junto com a expansão marítima foi levado a cultura, política e outros para os demais países. E assim foi a causa inicial da globalização.
+A globalização teve inicio no período das Grandes Navegações no século XVI, momento em que as trocas comerciais, cultura e política se ampliaram para outras nações.
+
+No último século, o processo de globalização se acelerou bastante devido à Terceira Revolução Industrial. Ela promoveu a evolução das tecnologias de transporte e comunicação, de modo que a distância e as fronteiras geográficas se tornam cada vez menores. Isso contribuiu diretamente para o aumento das trocas comerciais entre os países, sobretudo para a velocidade em que essas trocas acontecem. 
 
 ## Efeitos
 ### Positivos
