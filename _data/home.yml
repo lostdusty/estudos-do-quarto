@@ -39,7 +39,7 @@ project_entries:
   - title: Sociologia
     url: sociologia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
-    #highlight: NOVO
+    highlight: NOVO
 
   - title: Química
     url: quimica
