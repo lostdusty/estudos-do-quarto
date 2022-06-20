@@ -46,7 +46,7 @@ Logo após, vieram mais imigrantes fugindo da violência da 1ª guerra mundial.
 ## Apropriação cultural
 Problema: forma como grupos privilegiados utilizam expressões culturais de outras culturas.
 
-- Mercantilização $\leftarrow$ embranquecimento.
+- Mercantilização $\rightarrow$ embranquecimento.
 
 ## Etnicidade
 - Sentimento de pertencimento a um grupo etnico.
