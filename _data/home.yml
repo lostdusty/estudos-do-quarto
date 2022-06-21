@@ -39,16 +39,21 @@ project_entries:
   - title: Sociologia
     url: sociologia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Química
     url: quimica
     desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
-    #highlight: WIP
+    highlight: NOVO
 
   - title: Geografia
     url: geografia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de geografia!
+    #highlight: NOVO
+    
+  - title: Filosofia
+    url: filosofia
+    desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
     highlight: NOVO
 
 old_project_entries:
