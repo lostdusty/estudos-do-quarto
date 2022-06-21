@@ -45,9 +45,10 @@
   google.charts.load('current', {
   packages: ['corechart', 'line']
 });
-google.charts.setOnLoadCallback(drawCurveTypes);
+google.charts.setOnLoadCallback(drawGraphExo);
+google.charts.setOnLoadCallback(drawGraphEndo);
 
-function drawCurveTypes() {
+function drawGraphExo() {
   var data = new google.visualization.DataTable();
   data.addColumn('number', 'X');
   data.addColumn('number', '△H');
@@ -59,6 +60,38 @@ function drawCurveTypes() {
     [3, 100],
     [4, 100],
     [5, 100]
+  ]);
+
+  var options = {
+    hAxis: {
+      title: 'Caminho da reação'
+    },
+    vAxis: {
+      title: 'Entalpia'
+    },
+    series: {
+      1: {
+        curveType: 'function'
+      }
+    }
+  };
+
+  var chart = new google.visualization.LineChart(document.getElementById('chart_entalpia_endo'));
+  chart.draw(data, options);
+}
+  
+function drawGraphEndo() {
+  var data = new google.visualization.DataTable();
+  data.addColumn('number', 'X');
+  data.addColumn('number', '△H');
+
+  data.addRows([
+    [0, 100],
+    [1, 100],
+    [2, 100],
+    [3, 300],
+    [4, 300],
+    [5, 300]
   ]);
 
   var options = {
