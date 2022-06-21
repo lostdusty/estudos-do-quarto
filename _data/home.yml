@@ -43,17 +43,17 @@ project_entries:
 
   - title: Química
     url: quimica
-    desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
+    desc: Encontre aqui os nossos resumos sobre quimica!
     highlight: NOVO
 
   - title: Geografia
     url: geografia
-    desc: Encontre aqui os nossos resumos sobre aprofundamento de geografia!
+    desc: Encontre aqui os nossos resumos sobre geografia!
     #highlight: NOVO
     
   - title: Filosofia
     url: filosofia
-    desc: Encontre aqui os nossos resumos sobre aprofundamento de quimica!
+    desc: Encontre aqui os nossos resumos sobre filosofia!
     highlight: NOVO
 
 old_project_entries:
