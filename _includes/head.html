@@ -41,6 +41,44 @@
   });
 </script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script>
+  google.charts.load('current', {
+  packages: ['corechart', 'line']
+});
+google.charts.setOnLoadCallback(drawCurveTypes);
+
+function drawCurveTypes() {
+  var data = new google.visualization.DataTable();
+  data.addColumn('number', 'X');
+  data.addColumn('number', 'Variação da entalpia');
+
+  data.addRows([
+    [0, 300],
+    [1, 300],
+    [2, 300],
+    [3, 100],
+    [4, 100],
+    [5, 100]
+  ]);
+
+  var options = {
+    hAxis: {
+      title: 'Caminho da reação'
+    },
+    vAxis: {
+      title: 'Entalpia'
+    },
+    series: {
+      1: {
+        curveType: 'function'
+      }
+    }
+  };
+
+  var chart = new google.visualization.LineChart(document.getElementById('chart_entalpia_exo'));
+  chart.draw(data, options);
+}
+  </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   {%- include custom_head.html -%}
 </head>
