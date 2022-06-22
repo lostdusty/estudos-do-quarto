@@ -57,19 +57,19 @@ São importantes na:
 - Biotecnologia
 
 ## Principais doenças
-- ==Tuberculose== - respiratória
+- __Tuberculose__ - respiratória
 - Botulismo - ingestão
 - Sífilis - sexual
 - Cólera - fecal-oral
-- ==Difteria== - respiratória
-- ==Coqueluche== - respiratória
-- ==Tétano== - contato
+- __Difteria__ - respiratória
+- __Coqueluche__ - respiratória
+- __Tétano__ - contato
 - Hanseníase - respiratória
 - Leptospirose - contato com urina de animais
-- ==Meningite== - contato
-- ==Pneumonia== - respiratória
+- __Meningite__ - contato
+- __Pneumonia__ - respiratória
 
-As doenças ==marcadas== possuem vacinas.
+As doenças __marcadas__ possuem vacinas.
 
 > **Vacina x Remédios**
 > Vacinas previnem a doença, enquanto remédios são para o tratamento da doença. Lembre-se disso.
