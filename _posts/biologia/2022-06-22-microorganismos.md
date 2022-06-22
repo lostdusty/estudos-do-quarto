@@ -72,10 +72,39 @@ São importantes na:
 As doenças __marcadas__ possuem vacinas.
 
 > **Vacina x Remédios**
+> 
 > Vacinas previnem a doença, enquanto remédios são para o tratamento da doença. Lembre-se disso.
 
 # Protozoários
-~ In the works ~
+São celulas eucariontes, unicelulares e a sua maioria são de vida livres, vivendo em ambientes úmidos em geral.
+
+## Tipos de celulas
+### Rhizopodas
+Se locomovem projetando o citoplasma (pseudópodes).
+
+### Foraminifera
+Emitem pseudópodes finos e ramificados através da carapaça.
+
+### Actinopoda
+Tem pseudópodes afilados e rígidos.
+
+### Zoomastigophora
+Apresentam flagelos para locomoverem.
+
+### Ciliophora
+Tem cílios para a locomoção.
+
+### Apicomplexa / esporozoários
+São parasitas e não se locomovem.
+
+## Principais doenças
+- Malária (Plasmodium sp.)
+- Chagas (Trypanosoma)
+- Leishmaniose (gênero Leishmania)
+- Amebiase (Amebas)
+- Giardiase (Giardia intestinalis)
+- Toxoplasmose (Toxoplasma gondili)
+- Triconiase
 
 # Algas
 ~ In the works ~
