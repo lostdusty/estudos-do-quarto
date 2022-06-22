@@ -29,7 +29,7 @@ project_entries:
   - title: Biologia
     url: biologia
     desc: Encontre aqui os nossos resumos sobre biologia!
-    #highlight: NOVO
+    highlight: NOVO
 
   - title: Física
     url: fisica
@@ -44,7 +44,7 @@ project_entries:
   - title: Química
     url: quimica
     desc: Encontre aqui os nossos resumos sobre quimica!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Geografia
     url: geografia
@@ -54,7 +54,7 @@ project_entries:
   - title: Filosofia
     url: filosofia
     desc: Encontre aqui os nossos resumos sobre filosofia!
-    highlight: NOVO
+    #highlight: NOVO
 
 old_project_entries:
   - title: Soopr
