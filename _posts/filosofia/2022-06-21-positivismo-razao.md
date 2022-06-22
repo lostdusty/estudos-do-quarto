@@ -13,7 +13,7 @@ Para Comte a história revela uma progresso da razão humana, o qual passam em t
 ## Estado teológico ou fictício
 Seria a "infância", o qual as pessoas explicam os fenômenos naturais com explicações sobrenaturais. 
 
-#E Estado metafísico ou abstrato
+## Estado metafísico ou abstrato
 A "juventude", o qual as explicações transmudavam para algo mais abstrato. 
 
 ## Estado da maturidade, positivo ou científico. 
