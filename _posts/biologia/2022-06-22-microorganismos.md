@@ -172,6 +172,21 @@ Pirófias (dinoflagelados) se multiplicam excessivamente e liberam toxinas.
 Substância liberada pelas algas vermelhas usada na industria alímenticia e farmaceutica.
 
 # Fungos
-Atualize a página dentro de 15 minutos ;)
+Organismos hetetrófos (absorvem o alimento) unicelulares (como leveduras - fazem digestão intracelular) ou multicelulares (fazem digestão extracelular), sendo a sua maioria saprófagos (obtem o seu alimento a partir de organismos mortos).
 
-Ainda estou trabalhando nessa parte.
+Possuem hifas como filamentos, que por sua vez constituem o micélio.
+
+A parede celular é formada por quitina. A sua substância de reserva é o glicogênio. 
+
+A maioria faz respiração aeróbia absorvendo oxigênio, exceto as leveduras que são facultativas.
+
+## Importância ecologica
+Fazem a decomposição da matéria orgânica, sendo fundamentais no ciclo dos nutrientes.
+
+### Associação simbiótica com plantas
+Formam as micorrizas (hifas + raizes). As hifas fornecem açúcares e aminoácidos, enquanto as plantas fornecem fósforo, carbono, zinco e cobre.
+
+### Associação simbiótica com bactérias / algas
+Formam os líquens, em que as hifas revestem as células das algas / bactérias e auxiliam na obtenção de umidade e de minerais.
+
+São bioindicadores da qualidade do ar.
