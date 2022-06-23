@@ -6,7 +6,57 @@ layout: post
 ---
 
 # Vírus
-~ In the works ~
+São seres acelulares, portanto não são considerados vivos de acordo com a teoria celular. São parasitas celulares intraobrigatórios.
+
+Fora das celulas, eles ficam inativos em forma de cristais.
+
+## Estrututa
+
+![image](https://user-images.githubusercontent.com/47502554/175177142-92a228c8-4a83-4309-b640-170c05d4a59a.png)
+
+O envelope possibilita a identificação das celulas que os vírus podem parasitar favorecendo a interação com a membrana plasmatica para que ocorra a penetração do DNA.
+
+## Reprodução
+### Ciclo lítico
+"Escraviza" a celula fazendo com que ela replique o vírus no seu interior.
+
+#### Fases
+1. Ligação
+2. Penetração
+3. Síntese de acido núcleos e proteinas virais
+4. Montagem das cópias
+5. Liberação (lise bacteriana - geralmente as celulas explodem) 
+
+### Ciclo lisogênico
+O DNA do vírus é incorporado ao DNA da celula, mas não matando ela de imediato. Se a celula parasitada se multiplicar, o vírus tambem se multiplica.
+
+#### Exemplos
+HIV, Herpes
+
+### Dogma da biologia
+Geralmente os vírus se multiplicam da seguinte forma:
+
+(duplicação) DNA $\rightarrow$ (transcrição) RNAm $\rightarrow$ (tradução) Proteinas.
+
+Porém alguns vírus chamados de **retro-vírus** (como a AIDS, Covid-19) se multiplicam da seguinte forma:
+
+(duplicação) RNA $\rightarrow$ (transcrição reversa) DNA $\rightarrow$ (transcrição) RNAm $\rightarrow$ (tradução) Proteinas.
+
+## Doenças
+### Zoonoses
+- Caxumba
+- Sarampo
+- Rubélola
+- Poliomelite
+- Dengue (+ Zika e chikungunya)
+
+### ISTs
+- HPV
+- Aids
+- Hepatite A, B, C, D, E
+
+### Tretaviral
+Vacina que protege contra varicelula, caxumba, sarampo e rubélola.
 
 # Bactérias
 São seres procariontes unicelulares, geralmente vivem em colônias, são heterótrofos ou autrótofos e anaeróbios ou aeróbios.
@@ -107,7 +157,21 @@ São parasitas e não se locomovem.
 - Triconiase
 
 # Algas
-~ In the works ~
+Seres uni ou multicelulares, que apresenta uma coloração variavel, entre verde e marrom, por causa da clorofila e fucoxanha, respectivamente.
+
+Relizam fotossíntese, portanto são autrótofos.
+
+Não causam doenças e nem são parasitas.
+
+Substância de reserva de energia: Amido. Possuem celulose como parede celular e se reproduzem sexualmente e assexualmente.
+
+## Maré vermelha
+Pirófias (dinoflagelados) se multiplicam excessivamente e liberam toxinas.
+
+## Ágar
+Substância liberada pelas algas vermelhas usada na industria alímenticia e farmaceutica.
 
 # Fungos
-~ In the works ~
+Atualize a página dentro de 15 minutos ;)
+
+Ainda estou trabalhando nessa parte.
