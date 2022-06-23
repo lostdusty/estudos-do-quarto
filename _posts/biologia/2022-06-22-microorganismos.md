@@ -6,7 +6,7 @@ layout: post
 ---
 
 # Vírus
-São seres acelulares, portanto não são considerados vivos de acordo com a teoria celular. São parasitas celulares intraobrigatórios.
+São seres acelulares, portanto não são considerados vivos de acordo com a teoria celular. São parasitas intracelulares obrigatórios.
 
 Fora das celulas, eles ficam inativos em forma de cristais.
 
