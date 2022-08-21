@@ -87,7 +87,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: autor do tema
+
+  - title: sobre
+    url: about
+    
+  - title: design do site
     url: https://www.abhinav.co
 
   - title: boletim ctpm
@@ -99,8 +103,7 @@ footer_entries:
   - title: feed
     url: feed.xml
     
-  - title: sobre
-    url: about
+
 
 misc_entries:
   #- title: and you can add data in _data/home.yml
