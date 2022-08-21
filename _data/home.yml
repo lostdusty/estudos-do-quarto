@@ -1,8 +1,9 @@
 navbar_entries:
-  - title: sobre
-    url: about
+  #- title: sobre
+    #url: about
+    #removido por que ja tem em baixo no footer.
 
-  - title: último posts
+  - title: novos resumos
     url: blog
 
   - title: matemática
@@ -19,6 +20,12 @@ navbar_entries:
     
   - title: geografia
     url: geografia
+    
+  - title: quimica
+    url: quimica
+    
+  - title: arte
+    url: arte
 
 project_entries:
   - title: Matemática
@@ -29,7 +36,7 @@ project_entries:
   - title: Biologia
     url: biologia
     desc: Encontre aqui os nossos resumos sobre biologia!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Física
     url: fisica
@@ -55,6 +62,11 @@ project_entries:
     url: filosofia
     desc: Encontre aqui os nossos resumos sobre filosofia!
     #highlight: NOVO
+        
+  - title: Arte
+    url: filosofia
+    desc: Também temos resumos sobre arte!
+    highlight: NOVO
 
 old_project_entries:
   - title: Soopr
@@ -84,7 +96,7 @@ footer_entries:
   - title: positivo on
     url: https://positivoon.com.br/
 
-  - title: feed rss
+  - title: feed
     url: feed.xml
     
   - title: sobre
