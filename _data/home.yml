@@ -61,12 +61,12 @@ project_entries:
   - title: Filosofia
     url: filosofia
     desc: Encontre aqui os nossos resumos sobre filosofia!
-    #highlight: NOVO
+    highlight: NOVO
         
   - title: Arte
-    url: filosofia
+    url: arte
     desc: Também temos resumos sobre arte!
-    highlight: NOVO
+    #highlight: NOVO
 
 old_project_entries:
   - title: Soopr
