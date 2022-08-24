@@ -26,6 +26,12 @@ navbar_entries:
     
   - title: arte
     url: arte
+        
+  - title: filosofia
+    url: filosofia
+        
+  - title: historia
+    url: historia
 
 project_entries:
   - title: Matemática
@@ -67,6 +73,11 @@ project_entries:
     url: arte
     desc: Também temos resumos sobre arte!
     #highlight: NOVO
+            
+  - title: História
+    url: historia
+    desc: Agora com resumos de história!
+    highlight: NOVO
 
 old_project_entries:
   - title: Soopr
