@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
 
-favicon: "logo.png" # relative path to site's favicon
+favicon: "estudos.princessmortix.link/logo.png" # relative path to site's favicon
 
 twitter:
     username: abhinav # update or delete this
