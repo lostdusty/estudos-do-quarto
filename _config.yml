@@ -1,5 +1,5 @@
 title: Estudos do Quarto
-author: Rebecca, Júlia, Nicole
+author: Rebecca & Autores
 url: https://estudos.princessmortix.link # root address of the site
 description: > # description of the site (multiple lines allowed)
   Estudos do quarto é um projeto para ajudar os estudantes com dificuldade nas matérias que são ensinadas na escola. Feito por alunas para todos os alunos.
@@ -16,8 +16,8 @@ twitter:
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "< voltar" # customize text for homepage link in post layout
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: "<i class='fa-solid fa-angle-left'></i> voltar" # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description
