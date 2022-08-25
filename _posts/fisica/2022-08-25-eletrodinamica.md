@@ -45,7 +45,7 @@ $$\sigma = \frac{Q}{4 \times \pi \times R^2}$$
 
 $$i = \frac{\triangle Q}{\triangle t}$$
 
-$$Q = Area do gráfico$$
+$Q =$ Area do gráfico
 
 ## Efeitos da corrente
 - Termico
@@ -61,6 +61,7 @@ $$U = R \times i$$
 Sendo U a voltagem, R a resistência do resistor e i a Amperagem (intensidade) da corrente
 
 ## 2ª Lei (resistividade)
+
 $$R = \frac{p \times \ell}{A}$$
 
 R é diretamente proporcional a $p$ e $\ell$.
@@ -80,18 +81,19 @@ $$E = P \times \triangle t$$
 > $$P = R \times i^2$$
 
 
-> $$P = \frac{U^2}{R}
+> $$P = \frac{U^2}{R}$$
 
 ## Geradores
 ![image](http://1.bp.blogspot.com/-9U48xvwyf-o/TlUMPAogcEI/AAAAAAAAaWk/2FW--lG4I8k/s1600/gera_2.PNG)
 
 ### Potência de um gerador
+
 $$U = E - r \times i$$
 
 > Potencia Util: $$Pu = i \times U$$
 
 
-> Potencia Total: $$Pt = i \times E$
+> Potencia Total: $$Pt = i \times E$$
 
 
 > Potencia Dissipada: $$Pd = u \times i^2$$ 
