@@ -17,7 +17,7 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "<i class='fa-solid fa-angle-left'></i> voltar" # customize text for homepage link in post layout
+  back_home_text: "<i class='fa-solid fa-square-caret-left'></i> voltar" # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description
