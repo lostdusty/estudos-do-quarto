@@ -3,7 +3,7 @@ layout: post
 author: Rebecca
 title: "Estudos do Quarto - Sobre"
 ---
-![image](./logo.png) 
+![image](./logo-txt.png) 
 
 # <i class="fa-solid fa-circle-info"></i> Sobre o projeto
 Estudos do quarto é um projeto destinado a alunos do ensino médio que consiste em resumos de reforço (de graça e sem anúncios irritantes) do conteúdo que foi passado em sala de aula.  
