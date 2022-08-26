@@ -35,5 +35,5 @@ Esse projeto é possível graças a essas todas as pessoas que fazem os resumos 
 - [GitHub](https://github.com), aonde o site é hospedado;
 - MathJax, para mostrar as fórmulas;
 - [Font Awesome](https://fontawesome.com), pelos icons;
-- Mei, pelo o icon do site.
-- [roridev](https://github.com/roridev), com correções e sugestões;
+- Mei & [Nex](https://twitter.com/felipe_nex), pelo o icon do site;
+- [roridev](https://github.com/roridev), com correções e sugestões.
