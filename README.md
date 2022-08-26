@@ -35,5 +35,5 @@ Nenhum dado é coletado sobre o usuário.
 - [Todo mundo que escreveu os resumos](https://estudos.princessmortix.link/about), em especial Júlia, Yngrid, Bia e Nicole <3;
 - [roridev](https://github.com/roridev), com correções e sugestões;
 - [Font Awesome](https://fontawesome), pelos icons;
-- Mei, pelo icone incrivel;
+- Mei & [Nex](https://twitter.com/felipe_nex), pelo o icon do site;
 - MathJax.
