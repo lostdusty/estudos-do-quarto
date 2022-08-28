@@ -236,3 +236,8 @@ O conteúdo de prismas está disponivel em .pdf
 ## Volume de prismas
 
 [<i class="fa-solid fa-file-pdf"></i> baixar conteúdo](https://github.com/princessmortix/estudos-do-quarto/files/8904828/a686428c-96a7-45a9-ac57-3fb6267b0628.pdf)
+
+# Formulas
+Veja a imagem anexada abaixo com as fórmulas de alguns poligonos. Os arquivos acima contém as fórmulas dos polígonos.
+
+![img](https://media.discordapp.net/attachments/852886295679860776/1013559461174054923/IMG_20220825_110637.jpg)
