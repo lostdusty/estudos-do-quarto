@@ -6,10 +6,10 @@ author: Turma 201 & 202
 ---
 As próximas provas de sociologias serão sobre os seminários que foram apresentados em aula, veja abaixo os seminários e as apresentações dos grupos
 
-# [Turma 201](#201)
-Aqui estão os seminários da turma 201. Para ver o da turma 202, [clique aqui](#202).
+# Turma 201
+Aqui estão os seminários da turma 201. 
 ## Pena de morte
-[<i class="fa-solid fa-file-powerpoint"></i> Slides](https://cdn.discordapp.com/attachments/645230059476484128/1032789051922731098/Pena_de_Morte_-_Final.pdf)
+\[[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032789051922731098/Pena_de_Morte_-_Final.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/1idDsQlSK_KC33bC1NKDv1vj0Ia4cPV-S/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
