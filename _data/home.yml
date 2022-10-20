@@ -52,7 +52,7 @@ project_entries:
   - title: Sociologia
     url: sociologia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
-    #highlight: NOVO
+    highlight: NOVO
 
   - title: Química
     url: quimica
@@ -62,7 +62,7 @@ project_entries:
   - title: Geografia
     url: geografia
     desc: Encontre aqui os nossos resumos sobre geografia!
-    #highlight: NOVO
+    highlight: NOVO
     
   - title: Filosofia
     url: filosofia
@@ -77,7 +77,7 @@ project_entries:
   - title: História
     url: historia
     desc: Agora com resumos de história!
-    highlight: NOVO
+    #highlight: NOVO
 
 old_project_entries:
   - title: Soopr
