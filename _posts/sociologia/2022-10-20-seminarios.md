@@ -9,19 +9,19 @@ As próximas provas de sociologias serão sobre os seminários que foram apresen
 # Turma 201
 Aqui estão os seminários da turma 201. 
 ## Pena de morte
-\[[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032789051922731098/Pena_de_Morte_-_Final.pdf)
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032789051922731098/Pena_de_Morte_-_Final.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/1idDsQlSK_KC33bC1NKDv1vj0Ia4cPV-S/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
 
 ## Música como critica social
-[<i class="fa-solid fa-file-powerpoint"></i> Slides](https://cdn.discordapp.com/attachments/645230059476484128/1032788304732618973/A_musica_como_critica_social.pdf)
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032788304732618973/A_musica_como_critica_social.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/1b2HAjhAQoYr3M-Zi-xSqCq0miNDOkCCt/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
 
 ## Gênero
-[<i class="fa-solid fa-file-powerpoint"></i> Slides](https://cdn.discordapp.com/attachments/645230059476484128/1032789805878231060/genero.pdf)
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032789805878231060/genero.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/13eOLyaJP3m4ARIizW49GzBLITg7sfVGe/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
@@ -32,19 +32,19 @@ Aqui estão os seminários da turma 201.
 {% endraw %}
 
 ## Homofobia
-[<i class="fa-solid fa-file-powerpoint"></i> Slides](https://cdn.discordapp.com/attachments/645230059476484128/1032788381723275264/Homofobia.pdf)
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032788381723275264/Homofobia.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/10gMnsLpLbQ6uxu90FnR0XIc2sTNf_Bh8/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
 
 ## Legalização da Maconha
-[<i class="fa-solid fa-file-powerpoint"></i> Slides](https://cdn.discordapp.com/attachments/645230059476484128/1032788963305459722/Legalizacao_da_Maconha.pdf)
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1032788963305459722/Legalizacao_da_Maconha.pdf)
 {% raw %}
 <iframe src="https://drive.google.com/file/d/1yO6HljV5-rO2bfeFqSY5HxADkCGxQ9C3/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endraw %}
 
-# [Turma 202](#202)
-Aqui estão os seminários da turma 202. Para ver o da turma 201, [clique aqui](#201).
+# Turma 202
+Aqui estão os seminários da turma 202. 
 ## Pena de morte
 {% raw %}
 <iframe src="https://drive.google.com/file/d/1X0Eu5WAkjmGnDYfTR6_wPsF-1mLDvkZv/preview" width="640" height="480" allow="autoplay"></iframe>
