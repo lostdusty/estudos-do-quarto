@@ -34,7 +34,7 @@ Depois do desgaste com a guerra civil, a França cede a independencia.
 ### Serra Leoa
 - Colônia da Inglaterra
 - FRU
-- Skia Stevens
+- Saika Stevens
 - Guerra civil pela disputa de diamantes e poder
 - Independencia em 1971
 
