@@ -20,7 +20,7 @@ No Brasil, tivemos seus principais representantes: Dutra, Getulio Vargas, Café 
 - UDN (Oposição)
 - Politico Trabalhista
 - Menor aproximanção do EUA
-- Acusado pelo atentado de Carlos Lecede
+- Acusado pelo atentado de Carlos Lacerda
 - Suicidio (1954)
 
 ## JK
