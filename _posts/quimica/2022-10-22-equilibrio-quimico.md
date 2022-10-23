@@ -1,6 +1,6 @@
 ---
 title: Equilibrio e deslocamento do equilibrio
-permalink: /quimico/equilibrio-quimico
+permalink: /quimica/equilibrio-quimico
 layout: post
 author: Rebecca
 ---
