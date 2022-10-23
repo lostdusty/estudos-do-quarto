@@ -3,7 +3,7 @@ PATH
   specs:
     moonwalk (0.1.1)
       jekyll (>= 4.2, < 4.4)
-      jekyll-feed (~> 0.15.0)
+      jekyll-feed (>= 0.15, < 0.18)
       jekyll-seo-tag (~> 2.7.1)
       rouge (>= 3.23, < 4.1)
       webrick (~> 1.7)
@@ -40,7 +40,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-feed (0.15.1)
+    jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-latex (1.1.0)
       polytexnic (~> 1.6)
