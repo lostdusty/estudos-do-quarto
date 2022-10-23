@@ -52,22 +52,22 @@ project_entries:
   - title: Sociologia
     url: sociologia
     desc: Encontre aqui os nossos resumos sobre aprofundamento de sociologia!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Química
     url: quimica
     desc: Encontre aqui os nossos resumos sobre quimica!
-    #highlight: NOVO
+    highlight: NOVO
 
   - title: Geografia
     url: geografia
     desc: Encontre aqui os nossos resumos sobre geografia!
-    highlight: NOVO
+    #highlight: NOVO
     
   - title: Filosofia
     url: filosofia
     desc: Encontre aqui os nossos resumos sobre filosofia!
-    #highlight: NOVO
+    highlight: NOVO
         
   - title: Arte
     url: arte
