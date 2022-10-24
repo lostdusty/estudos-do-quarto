@@ -13,7 +13,7 @@ author: Yngrid, Rebecca
 
 ## Nematodeos
 - Corpo cilindrico
-- Bilateral triclastico pseudocelomados
+- Bilateral triblastico pseudocelomados
 - Conhecido como "vermes cilindricos"
 - Exemplo: Lombriga
 
