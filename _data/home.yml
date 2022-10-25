@@ -37,12 +37,12 @@ project_entries:
   - title: Matemática
     url: matematica
     desc: Encontre aqui os nossos resumos sobre matematica!
-    #highlight: IMPORTANTE
+    highlight: IMPORTANTE
 
   - title: Biologia
     url: biologia
     desc: Encontre aqui os nossos resumos sobre biologia!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Física
     url: fisica
