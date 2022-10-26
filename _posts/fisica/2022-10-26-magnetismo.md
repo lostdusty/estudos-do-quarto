@@ -110,4 +110,10 @@ $$ U_2 = 110V $$
 # Movimento das cargas
 Ainda fazendo o resumo, enquanto espere, você pode [ler sobre o movimento de particulas](https://www.preparaenem.com/fisica/movimento-carga-no-campo-magnetico.htm) ou ver uma [vídeo aula sobre isso](https://www.youtube.com/watch?v=h43wrE-CWM4).
 
+Veja também o T.A. corrigido abaixo:
+
+{% raw %}
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1034977381045239838/fisica-atv.pdf" width="500" height="375" allow="autoplay">
+{% endraw %}
+
 
