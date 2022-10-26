@@ -37,7 +37,7 @@ project_entries:
   - title: Matemática
     url: matematica
     desc: Encontre aqui os nossos resumos sobre matematica!
-    highlight: IMPORTANTE
+    #highlight: IMPORTANTE
 
   - title: Biologia
     url: biologia
@@ -47,7 +47,7 @@ project_entries:
   - title: Física
     url: fisica
     desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
-    #highlight: NOVO
+    highlight: NOVO
 
   - title: Sociologia
     url: sociologia
@@ -72,7 +72,7 @@ project_entries:
   - title: Arte
     url: arte
     desc: Também temos resumos sobre arte!
-    #highlight: NOVO
+    highlight: NOVO
             
   - title: História
     url: historia
