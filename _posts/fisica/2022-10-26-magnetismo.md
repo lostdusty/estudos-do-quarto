@@ -31,14 +31,14 @@ As linhas do campo magnetico saem do polo norte e entral no sul.
 ![](https://s3.static.brasilescola.uol.com.br/img/2019/12/linhas-de-inducao.jpg)
 
 # Eletromagnetismo
-Permeabilidade magnética do vácuo = $\micro_0 = 4 \pi \times 10^{-7} T * M/a $
+Permeabilidade magnética do vácuo = $\require{gensymb} \micro_0 = 4 \pi \times 10^{-7} T * M/a $
 ## Campo induzido
 - Experimento de Oersted: Carga em movimento gera um campo magnetico.
 
 ## Fio retilinio
 Formula:
 
-$$ B = \frac{\micro_0 \times i}{2 \times \pi r} $$
+$$ \require{gensymb} B = \frac{\micro_0 \times i}{2 \times \pi r} $$
 
 Sendo:
 - $B$ = Campo magnetico em [T]
@@ -48,7 +48,7 @@ Sendo:
 ## Espira
 Formula:
 
-$$ B = \frac{\micro_0 \times i}{2 \times r} $$
+$$ \require{gensymb} B = \frac{\micro_0 \times i}{2 \times r} $$
 
 Sendo:
 - $r$ = raio da espira
@@ -56,7 +56,7 @@ Sendo:
 ## Solenoide
 Formula: 
 
-$$ B = \frac{N \times \micro_0 \times i}{L} $$
+$$ \require{gensymb} B = \frac{N \times \micro_0 \times i}{L} $$
 
 Sendo:
 - $N$ = Número de espiras
