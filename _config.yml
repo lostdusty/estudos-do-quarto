@@ -9,7 +9,7 @@ permalink: /:slug
 favicon: "estudos.princessmortix.link/logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: princessmortix # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -33,7 +33,7 @@ theme_config:
   home:
     title_projects: Matérias
     title_misc_list: Vídeo-aulas
-    title_blog: Último Posts
+    title_blog: Últimos Posts
     title_old_projects: Old Projects
 
 soopr:
