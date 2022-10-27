@@ -1,6 +1,53 @@
-{% comment %}
-  Placeholder to allow defining custom head. You can put favicons and other custom header fields here
-{% endcomment %}
+<!-- MathJax -->
+<script>
+window.MathJax = {
+  tex: { inlineMath: [['$','$'],["\\(","\\)"]], tags: "ams",
+    packages: {'[+]': ['noerrors', 'color', 'gensymb']} },
+  
+  options: { ignoreHtmlClass: 'tex2jax_ignore', processHtmlClass: 'tex2jax_process' },
+  loader: { load: ['[tex]/noerrors', '[tex]/color', '[tex]/gensymb', 'ui/lazy'] }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async id="MathJax-script"></script>
+
+<!-- Google charts -->
+<script type="text/javascript" async src="https://www.gstatic.com/charts/loader.js"></script>
+<script>
+  google.charts.load('current', { packages: ['corechart', 'line']});
+google.charts.setOnLoadCallback(drawGraphExo);
+google.charts.setOnLoadCallback(drawGraphEndo);
+
+function drawGraphExo() {
+  var data = new google.visualization.DataTable();
+  data.addColumn('number', 'X');
+  data.addColumn('number', '△H');
+
+  data.addRows([[0, 100], [1, 100], [2, 100], [3, 300], [4, 300], [5, 300]]);
+
+  var options = { hAxis: { title: 'Caminho da reação' }, vAxis: { title: 'Entalpia' }, series: { 1: { curveType: 'function' } } };
+
+  var chart = new google.visualization.LineChart(document.getElementById('chart_entalpia_endo'));
+  chart.draw(data, options);
+}
+  
+function drawGraphEndo() {
+  var data = new google.visualization.DataTable();
+  data.addColumn('number', 'X');
+  data.addColumn('number', '△H');
+
+  data.addRows([[0, 300], [1, 300], [2, 300], [3, 100], [4, 100], [5, 100]]);
+
+  var options = { hAxis: { title: 'Caminho da reação' }, vAxis: { title: 'Entalpia' }, series: { 1: { curveType: 'function' } } };
+
+  var chart = new google.visualization.LineChart(document.getElementById('chart_entalpia_exo'));
+  chart.draw(data, options);
+}
+</script>
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- Meta tags -->
 <meta name="theme-color" content="#74c0fc">
 <meta name="author" content="Estudos do Quarto">
 <meta name="url" content="https://estudos.princessmortix.link/">
