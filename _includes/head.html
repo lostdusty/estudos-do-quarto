@@ -19,30 +19,24 @@
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    "HTML-CSS": {
-      availableFonts: ["TeX"],
-    },
-    tex2jax: {
-      inlineMath: [['$','$'],["\\(","\\)"]]},
-      displayMath: [ ['$$','$$'], ['\[','\]'] ],
-    TeX: {
-      extensions: ["AMSmath.js", "AMSsymbols.js", "color.js"],
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    autoload: {
-      gensymb: ['celsius', 'degree', 'micro', 'ohm', 'perthousand']
-    }
-    },
-    showProcessingMessages: true,
-    messageStyle: "none",
-    imageFont: null,
-    "AssistiveMML": { disabled: true }
-  });
+ <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>-->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$','$'],["\\(","\\)"]],
+    tags: "ams",
+    packages: {'[+]': ['noerrors', 'color']}
+  },
+  options: {
+    ignoreHtmlClass: 'tex2jax_ignore',
+    processHtmlClass: 'tex2jax_process'
+  },
+  loader: {
+    load: ['[tex]/noerrors', '[tex]/color']
+  }
+};
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/startup.js" integrity="sha512-TVq6RFk599KMqPh7Ri0yEAxHbJ0dcxSSPgvMuzQUg0wu4z+X7z2PsibMbbzAq/AHloHdxMW0FdvKv9k4s8niuA==" crossorigin="anonymous" referrerpolicy="no-referrer" id="MathJax-script"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script>
   google.charts.load('current', {
