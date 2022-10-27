@@ -82,7 +82,7 @@ O seu funcionamento é baseado na criação de uma corrente induzida no secundá
 
 A tensão de entrada e de saída são proporcionais ao número de espiras em cada bobina. 
 
-$$ \frac{U_1}{U_2} = \frac{N_1}{N_2} = \frac{i_1}{i_2} $$
+$$ \frac{U_1}{U_2} = \frac{N_1}{N_2} = \frac{i_2}{i_1} $$
 
 Sendo: 
 - $U$ = tensão [V]
