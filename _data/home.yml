@@ -47,7 +47,7 @@ project_entries:
   - title: Física
     url: fisica
     desc: Encontre aqui os nossos resumos sobre fisica e aprofundamento de fisica!
-    highlight: NOVO
+    #highlight: NOVO
 
   - title: Sociologia
     url: sociologia
@@ -72,7 +72,7 @@ project_entries:
   - title: Arte
     url: arte
     desc: Também temos resumos sobre arte!
-    highlight: NOVO
+    #highlight: NOVO
             
   - title: História
     url: historia
@@ -139,13 +139,13 @@ misc_entries:
       - title: Sociologia
         url: https://youtube.com/playlist?list=PLYWPF_35IK-HDytOwnSqD0hqu0-qLR8CQ
 
-      - title: em breve mais playlists
-        url: false
-        entries:
-          - title: amanhã aqui estará as playlists das provas do dia 5
-            url: false
+     # - title: em breve mais playlists
+       # url: false
+       # entries:
+        #  - title: amanhã aqui estará as playlists das provas do dia 5
+       #     url: false
 
-          - title: e assim por diante :)
-            url: false
+       #   - title: e assim por diante :)
+        #    url: false
 
 
