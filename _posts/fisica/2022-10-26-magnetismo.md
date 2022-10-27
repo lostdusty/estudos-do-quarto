@@ -90,9 +90,9 @@ Sendo:
 - $i$ = corrente [A]
 
 Se:
-- $N_2$ > $N_2$ : Aumentador de tensão
-- $N_2$ < $N_2$ : Abaixador de tensão
-- $N_2$ = $N_2$ : Isolador de tensão
+- $N_2$ > $N_1$ : Eleva a tensão
+- $N_2$ < $N_1$ : Reduz a tensão
+- $N_2$ = $N_1$ : Isolador de tensão
 
 ## Exemplo
 Queremos a tensão de saída de um transformador cujo enrolamento primário, de 20 espiras, recebe 220 V de tensão. O enrolamento secundário desse transformador é formado por 10 espiras.
