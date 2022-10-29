@@ -244,7 +244,7 @@ $$V = 12$$
 
 # Prismas
 
-O conteúdo de prismas está disponivel em .pdf
+O conteúdo de prismas está disponível em .pdf
 
 [<i class="fa-solid fa-file-pdf"></i> baixar conteúdo](https://github.com/princessmortix/estudos-do-quarto/files/8904826/bb818a7b-e01f-4e50-9ced-bb09629f97de.pdf)
 
