@@ -1,36 +1,36 @@
 navbar_entries:
   #- title: sobre
-    #url: about
-    #removido por que ja tem em baixo no footer.
+  #url: about
+  #removido por que ja tem em baixo no footer.
 
   - title: novos resumos
     url: blog
 
   - title: matemática
     url: matematica
-    
+
   - title: biologia
     url: biologia
-    
+
   - title: fisica
     url: fisica
-    
+
   - title: sociologia
     url: sociologia
-    
+
   - title: geografia
     url: geografia
-    
-  - title: quimica
-    url: quimica
-    
+
+  - title: química
+    url: química
+
   - title: arte
     url: arte
-        
+
   - title: filosofia
     url: filosofia
-        
-  - title: historia
+
+  - title: história
     url: historia
 
 project_entries:
@@ -56,24 +56,24 @@ project_entries:
 
   - title: Química
     url: quimica
-    desc: Encontre aqui os nossos resumos sobre quimica!
+    desc: Encontre aqui os nossos resumos sobre química!
     #highlight: NOVO
 
   - title: Geografia
     url: geografia
     desc: Encontre aqui os nossos resumos sobre geografia!
     #highlight: NOVO
-    
+
   - title: Filosofia
     url: filosofia
     desc: Encontre aqui os nossos resumos sobre filosofia!
     #highlight: NOVO
-        
+
   - title: Arte
     url: arte
     desc: Também temos resumos sobre arte!
     #highlight: NOVO
-            
+
   - title: História
     url: historia
     desc: Agora com resumos de história!
@@ -82,7 +82,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -98,10 +98,9 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-
   - title: sobre
     url: about
-    
+
   - title: design do site
     url: https://www.abhinav.co
 
@@ -113,16 +112,14 @@ footer_entries:
 
   - title: feed
     url: feed.xml
-    
-
 
 misc_entries:
   #- title: and you can add data in _data/home.yml
-    #url: false
+  #url: false
 
   #- title: Blog posts
-    #post_list: true
-    #url: true
+  #post_list: true
+  #url: true
 
   - title: Playlists de nossas vídeo-aulas
     url: false
@@ -132,20 +129,18 @@ misc_entries:
 
       - title: Biologia
         url: https://youtube.com/playlist?list=PLDKxz_KUEUfN6J8ak5cKMXapZX4eDI9P8
-        
+
       - title: Fisica
         url: https://youtube.com/playlist?list=PLDKxz_KUEUfPEW04tYPfdTfgiuIcoWAk4
-        
+
       - title: Sociologia
         url: https://youtube.com/playlist?list=PLYWPF_35IK-HDytOwnSqD0hqu0-qLR8CQ
 
-     # - title: em breve mais playlists
-       # url: false
-       # entries:
-        #  - title: amanhã aqui estará as playlists das provas do dia 5
-       #     url: false
+      # - title: em breve mais playlists
+      # url: false
+      # entries:
+      #  - title: amanhã aqui estará as playlists das provas do dia 5
+      #     url: false
 
-       #   - title: e assim por diante :)
-        #    url: false
-
-
+      #   - title: e assim por diante :)
+      #    url: false
