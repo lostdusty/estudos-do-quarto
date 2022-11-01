@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /matematica/funcoes-trigonometricas/
-title: "Funções trigonometricas"
+title: "Funções trigonométricas"
 ---
 
 Infelizmente não foi possível criar nenhum conteúdo para as provas :(  
