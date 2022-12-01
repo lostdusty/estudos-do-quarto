@@ -49,7 +49,7 @@ $\Delta E =$ E (catodo) - E (anodo)
 
 $\uparrow E$ red, $\uparrow$ facilidade de receber eletrons
 
-$\downarrow$, $\uparrow$ facilidade de perder eletrons
+$\downarrow E$, $\uparrow$ facilidade de perder eletrons
 
 # Nox
 - Composto ionico = carga real
@@ -58,7 +58,7 @@ $\downarrow$, $\uparrow$ facilidade de perder eletrons
   - Metais alcalinos-terrosos = +2
   - Hidrogenio = +1
   - Oxigenio = -2
-- Exceções = $\ce{Al} = +3$ | $\ce{Zn} = +2$ | $\ce{Ag} = -1$ 
+- Exceções = | $\ce{Al} = +3$ | $\ce{Zn} = +2$ | $\ce{Ag} = -1$ 
 - Substancias simples = 0
 - Ion poliatomico = soma Nox = carga ionica
 
