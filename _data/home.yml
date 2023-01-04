@@ -98,19 +98,19 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: sobre
-    url: about
+  - title: <i class="fa-solid fa-circle-info"></i> sobre
+    url: sobre
 
-  - title: design do site
+  - title: <i class="fa-solid fa-brush"></i> tema
     url: https://www.abhinav.co
 
-  - title: boletim ctpm
+  - title: <i class="fa-solid fa-graduation-cap"></i> boletim ctpm
     url: https://www.sistemaspm.mg.gov.br/smb3_boletim/login.xhtml
 
-  - title: positivo on
+  - title: <i class="fa-solid fa-globe"></i> positivo on
     url: https://positivoon.com.br/
 
-  - title: feed
+  - title: <i class="fa-solid fa-rss"></i> feed
     url: feed.xml
 
 misc_entries:
