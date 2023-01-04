@@ -34,5 +34,5 @@ O que veio depois da Semana de 1922? Nos anos seguintes, os artistas modernistas
 # Movimento Hippie
 Veja um breve resumo sobre os Hippies
 {% raw %}
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1034958005214658570/hippie.pdf" width="340" height="640" allow="autoplay">
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1034958005214658570/hippie.pdf" allow="autoplay">
 {% endraw %}
