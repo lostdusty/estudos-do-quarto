@@ -39,33 +39,41 @@ As minhocas são monoicas, ou seja, hemafroditas, mas não se auto-fecudam, elas
 - Exoesqueleto (de quitina)
 - Apêndice articulados
 
-### Insetos
+### Conteúdo extra
+Slides feito por [YujiYashima](https://github.com/YujiYashima/Arthropoda). Usado com permissão sobre a licensa MIT.
+
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://github.com/YujiYashima/Arthropoda/raw/main/slides/artropodes.pdf)
+{% raw %}
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/YujiYashima/Arthropoda/raw/main/slides/artropodes.pdf" width="640" height="350" allow="autoplay">
+{% endraw %}
+
+## Insetos
 - Cabeça, Torax, abdome
 - 3 pares de pernas
 - 1 par de antenas
 - Asas
 - Exemplo: Besouros, moscas
 
-### Aracnídeos
+## Aracnídeos
 - Cefalotorax + abdome
 - 4 pares
 - Não tem anteas
 - Exemplo: Aranha, escorpião
 
-### Crustaceos
+## Crustaceos
 - Cefalotorax + abdome
 - 5 pares
 - 2 pares de antenas
 - Podem ter pinças
 - Exemplo: Camarão
 
-### Quilopodes
+## Quilopodes
 - Cabeça, tronco (achatados)
 - 1 par de pernas por segmento
 - 1 par de antenas
 - Exemplo: Lacaia
 
-### Diplopodes
+## Diplopodes
 - Cabeça, tronco (esfericos)
 - 1 par de pernas por segmento
 - 1 par de antenas
