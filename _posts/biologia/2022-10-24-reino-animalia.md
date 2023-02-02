@@ -44,7 +44,7 @@ Slides feito por [YujiYashima](https://github.com/YujiYashima/Arthropoda). Usado
 
 [\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://github.com/YujiYashima/Arthropoda/raw/main/slides/artropodes.pdf)
 {% raw %}
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/YujiYashima/Arthropoda/raw/main/slides/artropodes.pdf" width="340" height="640" allow="autoplay">
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/YujiYashima/Arthropoda/raw/main/slides/artropodes.pdf" width="340" height="640" allow="autoplay" id="resize">
 {% endraw %}
 
 ## Insetos
