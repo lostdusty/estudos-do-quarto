@@ -113,7 +113,7 @@ Ainda fazendo o resumo, enquanto espere, você pode [ler sobre o movimento de pa
 Veja também o T.A. corrigido abaixo:
 
 {% raw %}
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1034977381045239838/fisica-atv.pdf" width="340" height="640" allow="autoplay" id="resize">
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1034977381045239838/fisica-atv.pdf" width="340" height="640" allow="autoplay" id="resize" onload="resize();">
 {% endraw %}
 
 
