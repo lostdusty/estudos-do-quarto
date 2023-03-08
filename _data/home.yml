@@ -32,6 +32,9 @@ navbar_entries:
 
   - title: história
     url: historia
+    
+  - title: portugues
+    url: portugues
 
 project_entries:
   - title: Matemática
@@ -78,6 +81,11 @@ project_entries:
     url: historia
     desc: Agora com resumos de história!
     #highlight: NOVO
+    
+  - title: Português
+    url: portugues
+    desc: Nem eu acredito que tem resumo de português
+    highlight: NOVO
 
 old_project_entries:
   - title: Soopr
