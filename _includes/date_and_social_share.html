@@ -11,7 +11,7 @@
   {{ content | number_of_words | minus: 180 }}
   {% endcapture %}
   {% unless words contains '-' %}
-  {{ words | strip | prepend: '(' | append: ' WPalavras, ' }}
+  {{ words | strip | prepend: '(' | append: ' Palavras, ' }}
   {{ words | plus: 180 | divided_by: 180 | append: ' Minutos)' }}
   {% endunless %}
 {% endif %}
