@@ -35,6 +35,9 @@ navbar_entries:
     
   - title: portugues
     url: portugues
+    
+  - title: inglês
+    url: english
 
 project_entries:
   - title: Matemática
@@ -85,6 +88,11 @@ project_entries:
   - title: Português
     url: portugues
     desc: Nem eu acredito que tem resumo de português
+    #highlight: NOVO
+
+  - title: Inglês
+    url: english
+    desc: Also class notes in english!
     highlight: NOVO
 
 old_project_entries:
