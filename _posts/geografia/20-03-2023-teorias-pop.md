@@ -1,7 +1,7 @@
 ---
 author: Yngrid, Rebecca
 layout: post
-permalink: /geografia/teorias-populacionais
+permalink: /geografia/teoria-populacionais
 tags: [ geografia, teorias, populacionais ]
 title: Teorias Populacionais
 ---
