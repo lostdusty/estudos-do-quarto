@@ -14,6 +14,7 @@ tags: [ fisica, cinematica, chatgpt ]
 > É possível que algumas partes deste resumo possam não estar totalmente precisas ou repetidas. Em caso de dúvidas com a matéria, experimente usar o ChatGPT!
 > 
 > \- [<i class="fa-solid fa-user"></i> Rebecca](https://princessmortix.link), a autora do site
+> 
 ---
 
 A cinemática é o ramo da física que estuda o movimento dos corpos sem considerar as causas desse movimento, como forças e energia. Ela se preocupa em descrever o movimento dos objetos, considerando grandezas como posição, velocidade, aceleração e tempo.
