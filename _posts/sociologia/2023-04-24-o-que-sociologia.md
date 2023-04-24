@@ -50,9 +50,9 @@ Interpretação do mundo
 - Prever afim de prover
 
 [\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1100192817613119488/Comte.pdf)
-{% raw %}
+
 <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1100192817613119488/Comte.pdf" allow="autoplay" class="resize" onload="resize();">
-{% endraw %}
+
 
 ### Os 3 estados positivos
 - Como?
@@ -64,8 +64,8 @@ Interpretação do mundo
 - Historicidade (contexto)
 - Estática social: religião, linguagem, família, propriedade, governo
   
-  # Max Weber
-  [\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1100192817902518292/Max_Weber.pdf)
-{% raw %}
+# Max Weber
+[\[<i class="fa-solid fa-file-powerpoint"></i> Baixar Slides\]](https://cdn.discordapp.com/attachments/645230059476484128/1100192817902518292/Max_Weber.pdf)
+
 <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://cdn.discordapp.com/attachments/645230059476484128/1100192817902518292/Max_Weber.pdf" allow="autoplay" class="resize" onload="resize();">
-{% endraw %}
+
