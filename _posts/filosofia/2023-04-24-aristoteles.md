@@ -37,6 +37,6 @@ A conduta etica está associada a realidade
 
 ## Fim da ação do estado
 - Equilibrio -> proporção de bens -> liberdade, propriedade, merito
-- Tirano, $ \arrowup $ mérito
+- Tirano, $\uparrow$ mérito
 - Demogógico -> "valores" -> corrosão
 - Estado submetido a lei (constituição)
