@@ -1,7 +1,7 @@
 ---
 title: Aristoteles
 author: Beatriz, Rebecca
-permalink: /filosofia/platao
+permalink: /filosofia/aristoteles
 layout: post
 tags: [ filosofia, aristoteles ]
 ---
