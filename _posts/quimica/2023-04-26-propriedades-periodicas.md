@@ -27,7 +27,7 @@ Os elementos na mesma coluna (grupo) apresentam propriedades químicas semelhant
 - Linhas vertiticais: grupos ou familias (1 ao 18);
 
 | Família | Denomininação |
-| :-----: | :-----------: |
+| ----- | :-----------: |
 | 1A ou 1 | Metais Alcalinos |
 | 2A ou 2 | Metais alcalino terrosos |
 | 3A ou 13 | familia do Boro |
