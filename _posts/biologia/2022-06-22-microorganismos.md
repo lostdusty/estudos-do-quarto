@@ -1,9 +1,10 @@
 ---
 title: Origem da Vida & Microorganismos
-author: Rebecca, Yngrid, Nicole, Beatriz
+author: Rebecca, Yngrid, Nicole, Beatriz, Ana Paula
 permalink: /biologia/microorganismos
 layout: post
 ---
+
 # Hipoteses da origem da vida
 - Hipotese criacionista
 - Hipotese fixista
@@ -34,8 +35,35 @@ Os microorganismos primitivos produziam o seu proprio alimento
 ---
 
 # Estrutura dos microorganismos
+## Ácido Nucleico (DNA e RNA)
+O DNA e o RNA são moléculas fundamentais para a transmissão e expressão de informações genéticas nos organismos vivos. O DNA (ácido desoxirribonucleico) é uma molécula de dupla hélice, composta por quatro bases nitrogenadas (adenina, citosina, guanina e timina), que se complementam por pares de bases, e um açúcar (desoxirribose) e um grupo fosfato. A ordem das bases nitrogenadas no DNA determina a sequência genética e a informação necessária para a produção de proteínas.
+
+Já o RNA (ácido ribonucleico) é uma molécula de cadeia simples, que contém também as bases adenina, citosina e guanina, mas em vez da timina, possui a base uracila. O RNA é produzido a partir do DNA por um processo chamado transcrição e pode assumir diferentes formas e funções dentro da célula, como o RNA mensageiro (mRNA), o RNA transportador (tRNA) e o RNA ribossômico (rRNA). O mRNA é responsável por transportar a informação genética do DNA para a síntese de proteínas, enquanto o tRNA e o rRNA estão envolvidos na produção das proteínas no ribossomo.
+
+### Duplicação do DNA
+A duplicação do DNA é o processo pelo qual uma célula copia todo o seu material genético antes da divisão celular. Esse processo ocorre em três etapas principais:
+
+1. Separação das duas fitas do DNA: a enzima helicase abre a dupla hélice do DNA, separando as duas fitas.
+
+2. Síntese das novas fitas de DNA: enzimas chamadas polimerases adicionam novos nucleotídeos às fitas expostas, de acordo com a ordem das bases complementares. Cada fita serve como modelo para a síntese de uma nova fita complementar.
+
+3. Ligação das fitas recém-sintetizadas: enzimas ligases selam as novas fitas de DNA, formando uma nova dupla hélice completa.
+
+![image @ https://spe.positivosolucoes.com.br/IMP/EM/LOUSA/assets/materias/BIO01/SPE_NV_2022_EM_XX_V5_LOUSA_BIO_PF_DIG_F01_C19.pdf](https://cdn.discordapp.com/attachments/645230059476484128/1100858140112732301/SPE_NV_2022_EM_XX_V5_LOUSA_BIO_PF_DIG_F01_C19-1.png)
+
 ## Membrana plasmática
 Tem bicamada lipoproteica de fosfolipídios e proteínas. A dupla camada apresenta colesterol na animal e estigmasterol nas vegetais. Os fosfolipídios são formados por um cabeça hidrofílica e uma cauda hidrofóbica. A membrana é bastante elástica, permite que as células realizem deformações.
+
+Caracteristicas Gerais:
+- Presente em todas as celulas
+- Limita, contorna as celulas
+- Fina, Delgada
+- Irregular
+- Capacidade de regeneração
+- Funções:
+  - Revestimento
+  - Proteção
+  - Permeabilidade seletiva
 
 ### Especializações da membrana
 - Desmossomos: dão coesão e aderência
@@ -45,6 +73,9 @@ Tem bicamada lipoproteica de fosfolipídios e proteínas. A dupla camada apresen
 - Parede celular: revestir proteger e sustentar
 
 ![creditos: https://spe.positivosolucoes.com.br/IMP/EM/LOUSA/assets/materias/BIO01/SPE_ER_2023_EM_XX_V1_LOUSA_BIO_PF_DIG_F01_C02.pdf](https://cdn.discordapp.com/attachments/645230059476484128/1088209591499763845/ezgif.com-gif-maker.jpg)
+
+![image @ https://www.facebook.com/profleandrocostabio/photos/a.2555499881339671/2820134101542913/?type=3](https://scontent.fpoj7-1.fna.fbcdn.net/v/t1.6435-9/165695871_2820134104876246_4468910880513863649_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=kTqTvbiMtsgAX-7VWmN&_nc_ht=scontent.fpoj7-1.fna&oh=00_AfB5luEaQsJfQo5eAionPq35nnYca9RP7ROT6N0Oz92gSQ&oe=6470DF6F)
+
 
 ## Proteínas
 As proteínas podem ser encontradas aderidas(extrínsecas ou periféricas) e outras mergulhadas nos lipídios
@@ -86,6 +117,32 @@ Emissão de expansões da membrana celular a célula engloba partículas sólida
 ## Exocitose
 Eliminação de residuos pela celula.
 
+## Respiração Celular
+A respiração celular é o processo pelo qual as células dos organismos vivos produzem energia a partir de moléculas de nutrientes, como a glicose. Esse processo ocorre em três etapas principais: glicólise, ciclo de Krebs e cadeia de transporte de elétrons.
+
+Na glicólise, ocorre a quebra da glicose em duas moléculas de ácido pirúvico, liberando uma pequena quantidade de energia e produzindo duas moléculas de ATP.
+
+O ácido pirúvico produzido na glicólise entra no ciclo de Krebs, onde ocorre a produção de mais ATP e outros compostos energéticos, como NADH e FADH2.
+
+Por fim, as moléculas de NADH e FADH2 produzidas no ciclo de Krebs são utilizadas na cadeia de transporte de elétrons, onde ocorre a produção da maior parte da energia celular em forma de ATP.
+
+Existem dois tipos de respiração celular: aeróbia e anaeróbia. A respiração aeróbia ocorre na presença de oxigênio e é mais eficiente na produção de energia, produzindo até 36 moléculas de ATP por molécula de glicose. Já a respiração anaeróbia ocorre na ausência de oxigênio e é menos eficiente, produzindo apenas 2 moléculas de ATP por molécula de glicose. 
+
+![image @ https://spe.positivosolucoes.com.br/IMP/EM/LOUSA/assets/materias/BIO01/SPE_NV_2022_EM_XX_V2_LOUSA_BIO_PF_DIG_F01_C05.pdf](https://cdn.discordapp.com/attachments/645230059476484128/1100862128266686554/RESPIRANDO.jpg)
+
+### Fermentação
+A fermentação é um processo anaeróbio de produção de energia que ocorre em algumas células quando não há oxigênio disponível para a respiração aeróbia. Na fermentação, a glicose é parcialmente oxidada, produzindo uma quantidade limitada de energia em forma de ATP.
+
+Existem dois tipos principais de fermentação: a fermentação láctica e a fermentação alcoólica. Na fermentação láctica, a glicose é convertida em ácido láctico, que se acumula nos músculos durante exercícios intensos, por exemplo. Já na fermentação alcoólica, a glicose é convertida em etanol e dióxido de carbono, que são utilizados na produção de bebidas alcoólicas e na fabricação de pães e outros alimentos fermentados.
+
+Em resumo:
+- Reação exotérmica
+- Anaeróbia
+- Baixo rendimento energitco (2 ATP, quebra parcial da glicose)
+- Etapa única: GLICÓSE
+- 2 tipos:
+  - Lactica -> Ácido lático (leite e deverivados, musculos)
+  - Alcoólica -> Etanol, $\ce{CO2}$ (vinhos, bebidas fermentadas)
 ---
 # Microorganismos
 
