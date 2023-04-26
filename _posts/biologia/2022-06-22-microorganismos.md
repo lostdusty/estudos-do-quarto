@@ -143,7 +143,10 @@ Em resumo:
 - 2 tipos:
   - Lactica -> Ácido lático (leite e deverivados, musculos)
   - Alcoólica -> Etanol, $\ce{CO2}$ (vinhos, bebidas fermentadas)
+
+
 ---
+
 # Microorganismos
 
 ## Vírus
