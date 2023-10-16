@@ -93,7 +93,7 @@ project_entries:
   - title: Inglês
     url: english
     desc: Also class notes in english!
-    highlight: NOVO
+    #highlight: NOVO
 
 old_project_entries:
   - title: Soopr
