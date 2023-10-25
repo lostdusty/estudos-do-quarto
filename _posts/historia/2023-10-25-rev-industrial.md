@@ -14,8 +14,10 @@ Essas diferenças marcam até hoje as nações do mundo que são divididas entre
 
 ### Economicas
 - Modo de produção capitalista
+
 ### Politicas
 - Burguesia toma o poder
+
 ### Sociais
 - Surgimento de questões sociais
 - 16h horas de trabalho
