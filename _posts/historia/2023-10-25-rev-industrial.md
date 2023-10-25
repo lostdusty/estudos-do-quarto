@@ -47,11 +47,11 @@ Movimento organizado pela **Associação dos Operarios**, que exigia melhores co
 
 ## Fases da RI
 
-| -               | 1ª Fase | 2ª Fase                    | 3ª Fase                           | 4ª Fase (atual)                             |
-|-----------------|---------|----------------------------|-----------------------------------|---------------------------------------------|
-| Material        | Ferro   | Aço                        | Eletrônicos e materiais avançados | Materiais compostos, plástico               |
-| Energia         | Vapor   | Petroleo                   | Eletricidade e Energia Nuclear    | Energia Renovável, Eletricidade Sustentável |
-| Setor principal | Têxtil  | Diversificação da produção | Tecnologia, Química, Transporte   | Tecnologia da Informação, Serviços          |
+|        -        | 1ª Fase |           2ª Fase          |              3ª Fase              |               4ª Fase (atual)               |
+|:---------------:|:-------:|:--------------------------:|:---------------------------------:|:-------------------------------------------:|
+|     Material    |  Ferro  |             Aço            | Eletrônicos e materiais avançados |        Materiais compostos, plástico        |
+|     Energia     |  Vapor  |          Petroleo          |   Eletricidade e Energia Nuclear  | Energia Renovável, Eletricidade Sustentável |
+| Setor principal |  Têxtil | Diversificação da produção |  Tecnologia, Química, Transporte  |      Tecnologia da Informação, Serviços     |
 
 ## Modelos de produção industrial
 ### Taylorismo
